@@ -21,7 +21,7 @@ body {
   font-size: 1.6rem;
   font-family: "Open Sans", sans-serif;
   color: #0f594d;
-  background-color: #f2e6cd;
+  background-color: #000000;
 }
 @media only screen and (min-width: 1048px) {
   body {
@@ -43,11 +43,11 @@ Main Components
 .cd-header {
   position: relative;
   height: 100%;
-  background-color: #93a748;
+  background-color: #000000;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   z-index: 1;
 }
-.cd-header h1 {
+.cd-header h1{
   width: 90%;
   color: #f2e6cd;
   text-align: center;
